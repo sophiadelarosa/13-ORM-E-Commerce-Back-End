@@ -1,4 +1,4 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Description
 This e-commerce site back end uses an Express.js API and Sequelize to interact with a MySQL database. The demo shows Insomnia being used to show routes for the following:
